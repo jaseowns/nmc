@@ -1,0 +1,2 @@
+# nmc
+Node Master Class
